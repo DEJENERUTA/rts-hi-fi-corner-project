@@ -1,0 +1,112 @@
+.card-container {
+	display: flex;
+	background-color: #fff;
+	padding-top: 40px;
+	gap: 2%;
+	margin-left: 50px; /* margin 0 auto did not work here */
+}
+.card-desc {
+	width: 20%;
+	padding: 20px;
+	margin-left: 20px;
+	background-color: gray;
+}
+.card-desc li {
+	margin-right: 20px;
+	line-height: 1.5;
+	color: rgb(163, 145, 97);
+	list-style: none;
+}
+.flex-container {
+	display: flex;
+	justify-content: space-between;
+}
+.cards {
+	border: 1px solid white;
+}
+.cards {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	padding: 10px;
+	align-content: center;
+	gap: 5%;
+}
+.sorting {
+	background-color: gray;
+	padding: 20px;
+	margin-top: 10px;
+}
+.products {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.products h3 {
+	margin-top: 10px;
+	line-height: 1.5;
+}
+.products p {
+	margin-top: 10px;
+}
+.single-product {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border: 1px solid gray;
+	height: 100px;
+}
+.products-info p {
+	display: flex;
+	gap: 20px;
+}
+.right-info {
+	margin-right: 10px;
+}
+.right-info h2 {
+	color: rgb(163, 145, 97);
+	font-size: 18px;
+}
+.right-info li {
+	list-style: none;
+	padding: 10px;
+	font-size: 14px;
+}
+.right-info p {
+	color: rgb(163, 145, 97);
+}
+h3 {
+	font-size: 12px;
+	text-align: center;
+}
+.cart-button {
+	background-color: rgb(163, 145, 97);
+	margin: 20px;
+	padding: 10px;
+	color: #fff;
+}
+.footer {
+	display: flex;
+	justify-content: space-between;
+	padding: 10px;
+}
+.footer-left,
+.footer-right {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	justify-content: center;
+}
+.footer-img {
+	width: 400px;
+}
+.footer-left a {
+	color: #fff;
+}
+.footer-nav {
+	display: flex;
+	justify-content: space-between;
+	color: #fff;
+}
+.footer-nav i {
+	color: #fff;
+}
