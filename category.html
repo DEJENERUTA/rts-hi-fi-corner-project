@@ -10,18 +10,18 @@
 			integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w=="
 			crossorigin="anonymous"
 		/>
-		<link rel="stylesheet" href="style.css" />
+		<link rel="stylesheet" href="./layout.css" />
+		<link rel="stylesheet" href="./category.css" />
 		<title>HI-FI Corner</title>
 	</head>
 	<body>
-		<div class="wrapper">
-			<header>
-				<div class="Header upper__menu">
-					<div class="Header header__logo header__logo--img">
-						<img src="images/logo.png" alt="hi-fi-logo" width="50" />
-					</div>
-
-					<form class="example" action="#">
+		<header class="header">
+			<div class="upper__menu">
+				<div class="header__logo header__logo--img">
+					<img src="images/logo.png" alt="hi-fi-logo" width="50" />
+				</div>
+				<div class="header-right">
+					<form class="search" action="#">
 						<input
 							type="text"
 							placeholder="search entire store here..."
@@ -29,7 +29,7 @@
 						/>
 						<button type="submit"><i class="fa fa-search"></i></button>
 					</form>
-					<div class="Header header__menu--icons">
+					<div class="header__menu--icons">
 						<i class="fas fa-user-circle"> ACCOUNT </i>
 						<i class="fas fa-cart-plus"> CART </i>
 						<i class="fas fa-map-marker-alt"></i>
@@ -37,21 +37,22 @@
 						<i class="fas fa-envelope-square"></i>
 					</div>
 				</div>
-				<hr />
-				<!-- header with search button and icons end her -->
-				<nav>
-					<ul class="Nav ul">
-						<li class="Nav__ul__li">HOME</li>
-						<li class="Nav__ul__li">ABOUT US</li>
-						<li class="Nav__ul__li">BRANDS</li>
-						<li class="Nav__ul__li">NEWS</li>
-						<li class="Nav__ul__li">EVENTS</li>
-						<li class="Nav__ul__li">SHOP</li>
-						<li class="Nav__ul__li">CONTACT US</li>
-					</ul>
-				</nav>
-			</header>
-			<main>
+			</div>
+			<!-- header with search button and icons end her -->
+			<nav class="lower-menu">
+				<ul class="Nav ul">
+					<li class="Nav__ul__li">HOME</li>
+					<li class="Nav__ul__li">ABOUT US</li>
+					<li class="Nav__ul__li">BRANDS</li>
+					<li class="Nav__ul__li">NEWS</li>
+					<li class="Nav__ul__li">EVENTS</li>
+					<li class="Nav__ul__li">SHOP</li>
+					<li class="Nav__ul__li">CONTACT US</li>
+				</ul>
+			</nav>
+		</header>
+		<main class="main">
+			<div class="wrapper">
 				<div class="card-container">
 					<div class="card-desc">
 						<h3>Amplifiers</h3>
@@ -75,7 +76,7 @@
 						</ul>
 					</div>
 					<div id="flex-container">
-						<h1>Amplifiers</h1>
+						<h1>AMPLIFIERS</h1>
 						<div class="sorting"></div>
 						<div class="cards">
 							<div class="products">
@@ -126,8 +127,28 @@
 						<p>View All</p>
 					</div>
 				</div>
-			</main>
-		</div>
-		<script src="js/script.js"></script>
+			</div>
+		</main>
+		<footer class="footer">
+			<div class="footer-left">
+				<address>
+					Hi-FI cornere <br />Edinbrugh 1a Hadingtonplace <br />whatever stuff
+				</address>
+				<nav>
+					<a href="">RETURNS $ REFUNDS</a>
+				</nav>
+			</div>
+			<div class="footer-right">
+				<div class="footer-img">
+					<img src="./images/pay_logos.png" alt="" />
+				</div>
+				<nav class="footer-nav">
+					<a href=""><i class="fab fa-facebook-square"></i></a>
+					<a href=""><i class="fab fa-youtube-square"></i></a>
+					<a href=""><i class="fab fa-twitter"></i></a>
+					<a href=""><i class="fab fa-linkedin"></i></a>
+				</nav>
+			</div>
+		</footer>
 	</body>
 </html>
