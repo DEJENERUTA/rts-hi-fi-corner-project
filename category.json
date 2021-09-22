@@ -1,0 +1,32 @@
+{
+	"items": [
+		{
+			"id": "1",
+			"title": "NETWORK HI-FI RECIEVER",
+			"name": "creek_classic_cd",
+			"price": 392.0,
+			"image": "./images/cd_afspillere/creek_classic_cd.jpg"
+		},
+		{
+			"id": "2",
+			"title": "NETWORK HI-FI RECIEVER",
+			"name": "creek_Destiny_CD",
+			"price": 392.0,
+			"image": "./images/cd_afspillere/creek_Destiny_CD.jpg"
+		},
+		{
+			"id": "3",
+			"title": "NETWORK HI-FI RECIEVER",
+			"name": "creek_evo_cd",
+			"price": 392.0,
+			"image": "./images/cd_afspillere/creek_evo_cd.jpg"
+		},
+		{
+			"id": "4",
+			"title": "NETWORK HI-FI RECIEVER",
+			"name": "Exp_2010S_CD",
+			"price": 392.0,
+			"image": "./images/cd_afspillere/Exp_2010S_CD.gif"
+		}
+	]
+}
