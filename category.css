@@ -3,10 +3,10 @@
 	background-color: #fff;
 	padding-top: 40px;
 	gap: 2%;
-	margin-left: 50px; /* margin 0 auto did not work here */
+	margin-left: 50px;
 }
 .card-desc {
-	width: 20%;
+	width: 25%;
 	padding: 20px;
 	margin-left: 20px;
 	background-color: gray;
@@ -16,6 +16,13 @@
 	line-height: 1.5;
 	color: rgb(163, 145, 97);
 	list-style: none;
+}
+.shop {
+	color: rgb(163, 145, 97);
+}
+.another-brands,
+.last-li {
+	color: rgb(163, 145, 97);
 }
 .flex-container {
 	display: flex;
@@ -32,9 +39,21 @@
 	gap: 5%;
 }
 .sorting {
+	display: flex;
+	justify-content: space-between;
 	background-color: gray;
 	padding: 20px;
 	margin-top: 10px;
+}
+.sorting-left {
+	display: flex;
+}
+.sorting-left-icons {
+	margin-top: 10px;
+}
+.sorting-right {
+	display: flex;
+	justify-content: space-between;
 }
 .products {
 	display: flex;
@@ -45,8 +64,14 @@
 	margin-top: 10px;
 	line-height: 1.5;
 }
+.products span {
+	text-decoration: line-through;
+	color: #000;
+	padding-right: 10px;
+}
 .products p {
 	margin-top: 10px;
+	color: rgb(163, 145, 97);
 }
 .single-product {
 	display: flex;
@@ -101,10 +126,11 @@ h3 {
 }
 .footer-left a {
 	color: #fff;
+	margin-left: 20px;
 }
 .footer-nav {
 	display: flex;
-	justify-content: space-between;
+	gap: 5%;
 	color: #fff;
 }
 .footer-nav i {
