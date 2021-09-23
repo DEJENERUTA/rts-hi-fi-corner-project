@@ -93,17 +93,16 @@ form.search::after {
 .selected {
 	color: rgb(163, 145, 97);
 }
+.uk-edition {
+	margin: 20px;
+}
+.home-amplifier {
+	color: rgb(163, 145, 97);
+}
 .page-detail {
 	padding: 50px;
 }
-.call-us {
-	text-align: center;
-	background-color: #000;
-	padding: 10px;
-	margin-top: 10px;
-	margin-bottom: 0;
-	color: rgb(163, 145, 97);
-}
+
 .main-details {
 	display: flex;
 	justify-content: space-between;
@@ -115,11 +114,63 @@ form.search::after {
 	margin: 20px;
 }
 .main-lefft-img {
+	width: 50%;
 	padding: 20px;
 	border: 1px solid gainsboro;
 }
 .main-right-details {
+	width: 50%;
 	padding: 20px;
+}
+.edition {
+	color: rgb(163, 145, 97);
+	font-size: 20px;
+}
+.view-product {
+	color: rgb(163, 145, 97);
+	font-size: 22px;
+}
+.current-price {
+	color: rgb(163, 145, 97);
+	margin-left: 20px;
+	font-size: 20px;
+}
+.onsale {
+	text-decoration: line-through;
+	color: #000;
+}
+.detail-button {
+	background-color: rgb(163, 145, 97);
+	padding: 10px;
+	margin-top: 20px;
+	color: #fff;
+}
+.check-box-field {
+	border: 1px solid gainsboro;
+	margin: 10px;
+}
+.required-area {
+	display: flex;
+	justify-content: space-between;
+	margin: 10px;
+}
+.required {
+	color: red;
+}
+.check-box {
+	margin: 10px;
+}
+label {
+	background-color: grey;
+	display: flex;
+}
+.call-us {
+	text-align: center;
+	background-color: #000;
+	padding: 10px;
+	margin-top: 10px;
+	margin-bottom: 0;
+	color: rgb(163, 145, 97);
 }
 .footer {
 	display: flex;
