@@ -63,6 +63,7 @@
 	background-color: gray;
 	padding: 20px;
 	margin-top: 10px;
+	margin-bottom: 20px;
 }
 .sorting-left {
 	display: flex;
@@ -144,6 +145,7 @@ h6 {
 	display: flex;
 	justify-content: space-between;
 	padding: 10px;
+	background-color: rgb(163, 145, 97);
 }
 .footer-left,
 .footer-right {
