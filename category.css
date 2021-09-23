@@ -1,15 +1,20 @@
+.container-search {
+	margin-top: 30px;
+}
+.home {
+	color: rgb(163, 145, 97);
+}
 .card-container {
 	display: flex;
 	background-color: #fff;
 	padding-top: 40px;
 	gap: 2%;
 	margin-left: 50px;
+	align-items: flex-start;
 }
 .card-desc {
 	width: 25%;
-	padding: 20px;
-	margin-left: 20px;
-	background-color: gray;
+	background-color: #fff;
 }
 .card-desc li {
 	margin-right: 20px;
@@ -18,11 +23,25 @@
 	list-style: none;
 }
 .shop {
+	margin: 10px;
 	color: rgb(163, 145, 97);
+	font-size: 16px;
+}
+.mini-heading {
+	color: #000;
+}
+.first-brands {
+	background-color: gray;
+	padding: 20px;
 }
 .another-brands,
 .last-li {
 	color: rgb(163, 145, 97);
+}
+.another-brands {
+	margin-top: 30px;
+	background-color: gray;
+	padding: 20px;
 }
 .flex-container {
 	display: flex;
@@ -47,6 +66,10 @@
 }
 .sorting-left {
 	display: flex;
+	justify-content: space-between;
+}
+.window {
+	color: rgb(163, 145, 97);
 }
 .sorting-left-icons {
 	margin-top: 10px;
@@ -78,7 +101,8 @@
 	align-items: center;
 	justify-content: center;
 	border: 1px solid gray;
-	height: 100px;
+	height: 150px;
+	overflow: hidden;
 }
 .products-info p {
 	display: flex;
@@ -102,6 +126,13 @@
 h3 {
 	font-size: 12px;
 	text-align: center;
+}
+h5 {
+	margin-top: 10px;
+}
+h6 {
+	margin: 10px;
+	font-size: 14px;
 }
 .cart-button {
 	background-color: rgb(163, 145, 97);
