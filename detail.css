@@ -113,10 +113,35 @@ form.search::after {
 	justify-content: space-between;
 	margin: 20px;
 }
-.main-lefft-img {
+.detail-page-left-content {
 	width: 50%;
 	padding: 20px;
+}
+.main-lefft-img {
 	border: 1px solid gainsboro;
+}
+.more-view {
+	color: rgb(163, 145, 97);
+	margin: 10px;
+}
+.mini-img {
+	display: flex;
+	width: 50px;
+	gap: 10%;
+}
+.desc {
+	color: rgb(163, 145, 97);
+	margin-top: 80px;
+}
+.detail-page-description li {
+	display: flex;
+	gap: 20%;
+	line-height: 1.5;
+}
+.gray-box {
+	padding: 50px;
+	background-color: rgb(225, 225, 225);
+	margin-top: 10px;
 }
 .main-right-details {
 	width: 50%;
@@ -145,24 +170,86 @@ form.search::after {
 	margin-top: 20px;
 	color: #fff;
 }
-.check-box-field {
+.form-container {
 	border: 1px solid gainsboro;
 	margin: 10px;
 }
 .required-area {
 	display: flex;
 	justify-content: space-between;
-	margin: 10px;
 }
 .required {
 	color: red;
 }
-.check-box {
-	margin: 10px;
+.reqired-box {
+	padding: 20px;
 }
-label {
-	background-color: grey;
+.black-checkbox {
+	background-color: rgb(225, 225, 225);
 	display: flex;
+	gap: 5%;
+	padding: 10px;
+	max-width: 40%;
+	align-items: center;
+}
+.silver-checkbox {
+	background-color: rgb(225, 225, 225);
+	display: flex;
+	margin-top: 20px;
+	padding: 10px;
+	max-width: 40%;
+	gap: 5%;
+	align-items: center;
+}
+
+.gray-box label {
+	color: rgb(163, 145, 97);
+	padding: 10px;
+}
+.gray-box button {
+	background-color: rgb(163, 145, 97);
+	color: #fff;
+	padding: 10px;
+}
+.paypal p {
+	margin-left: 120px;
+	margin-top: 5px;
+}
+.paypal img {
+	width: 150px;
+	margin-left: 70px;
+	margin-top: 10px;
+}
+hr {
+	margin-top: 30px;
+}
+table {
+	margin: 10px;
+	width: 90%;
+}
+table,
+th,
+td {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+td,
+th {
+	padding: 10px;
+}
+.table-heading {
+	margin: 10px;
+	color: rgb(163, 145, 97);
+}
+.marantz {
+	color: rgb(163, 145, 97);
+}
+.half-gray {
+	background-color: rgb(225, 225, 225);
+	text-align: left;
+	max-width: 100px;
+	font-size: 16px;
+	font-weight: normal;
 }
 .call-us {
 	text-align: center;
