@@ -30,7 +30,7 @@
 	color: #000;
 }
 .first-brands {
-	background-color: gray;
+	background-color: rgb(225, 225, 225);
 	padding: 20px;
 }
 .another-brands,
@@ -39,7 +39,7 @@
 }
 .another-brands {
 	margin-top: 30px;
-	background-color: gray;
+	background-color: rgb(225, 225, 225);
 	padding: 20px;
 }
 .flex-container {
@@ -59,7 +59,7 @@
 .sorting {
 	display: flex;
 	justify-content: space-between;
-	background-color: gray;
+	background-color: rgb(225, 225, 225);
 	padding: 20px;
 	margin-top: 10px;
 	margin-bottom: 20px;
