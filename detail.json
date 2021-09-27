@@ -17,7 +17,15 @@
 					"Power Output(8/4 Ohm RAMS)": "45 W / 60 W 10Hz",
 					"Frequency Response": "X 70kHz",
 					"Total Harmonic Distortion": "0.8%",
-					"Damping Factor": "100"
+					"Damping Factor": "100",
+					"Input Sensetivity:MM": "2.2mV/47kOhm",
+					"Input Sensetivity: MC": "x",
+					"Signal to Noise Ratio: MM/MC": "83 db/",
+					"Input Sensetivity: High level": "200 MV /20 kOhm",
+					"Input Sensetivity: Balanced High level": "x",
+					"Signal to Noise Ratio: High level": "102 db /(2V input)",
+					"Input Sensetivity: Power Amp Direct IN": "x",
+					"Signal to Noise Ratio:Power Amp Direct IN": "x"
 				}
 			]
 		}
