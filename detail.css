@@ -181,6 +181,9 @@ form.search::after {
 .required {
 	color: red;
 }
+.star {
+	color: red;
+}
 .reqired-box {
 	padding: 20px;
 }
