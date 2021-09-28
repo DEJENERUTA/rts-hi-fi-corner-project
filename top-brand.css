@@ -27,12 +27,28 @@ img {
 
 .upper__menu {
 	display: flex;
-	justify-content: flex-end;
+	justify-content: space-between;
+	align-items: center;
 	width: 100%;
 	padding: 20px;
 	border-bottom: 1px solid rgb(163, 145, 97);
 }
 
+/* .header__logo--img {
+	font-size: 100px;
+	width: 100px;
+} */
+.header-right {
+	display: flex;
+	align-items: center;
+}
+.upper__menu {
+	display: flex;
+	justify-content: flex-end;
+	width: 100%;
+	padding: 20px;
+	border-bottom: 1px solid rgb(163, 145, 97);
+}
 .header__menu--icons {
 	display: flex;
 	gap: 20px;
@@ -55,34 +71,28 @@ img {
 .selected {
 	color: rgb(163, 145, 97);
 }
-.grid-container {
-	display: grid;
-	grid-template-columns: repeat(4, 1fr);
-	grid-template-rows: repeat(3, 1fr);
-	background-color: rgb(163, 145, 97);
-}
-.brands {
-	position: relative;
-	text-align: center;
-	color: white;
-}
-.items-name {
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-	color: #fff;
-	text-decoration: underline;
-}
-.shop-now {
-	background-color: rgb(163, 145, 97);
-	color: #fff;
-}
 .footer {
 	display: flex;
 	justify-content: space-between;
 	padding: 10px;
 	background-color: rgb(163, 145, 97);
+}
+.top-brand-title {
+	color: #fff;
+	font-size: 22px;
+}
+.header__logo {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 30px;
+}
+body {
+	background-image: url("images/banner-speaker.jpg");
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 .footer-left,
 .footer-right {
