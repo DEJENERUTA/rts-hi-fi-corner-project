@@ -54,7 +54,7 @@
 	grid-template-columns: repeat(4, 1fr);
 	padding: 10px;
 	align-content: center;
-	gap: 5%;
+	gap: 20px;
 }
 .sorting {
 	display: flex;
