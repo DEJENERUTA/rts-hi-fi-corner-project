@@ -1,3 +1,7 @@
+const url = window.location.search;
+const param = new URLSearchParams(url);
+const search = param.get("search");
+
 const cotegorylist = document.querySelector("#category-list");
 const cardList = document.querySelector("#card-list");
 const brandList = document.querySelector("#brand-list");
@@ -15,7 +19,7 @@ fetch("./category.json")
 				element.innerHTML += `<li>${arrayItem}</li>`;
 			});
 		}
-		result.items.forEach((object) => {
+		function createProduct(object) {
 			let sale;
 			if (object.price.onsale) {
 				sale = `${object.price.currency}${object.price.salePrice.toFixed(2)}`;
@@ -40,6 +44,13 @@ fetch("./category.json")
 			)}</p>
 			${cart}
 		</div></a>`;
+		}
+		result.items.forEach((object) => {
+			if (search && object.category == search) {
+				createProduct(object);
+			} else if (!search) {
+				createProduct(object);
+			}
 		});
 		category("category", cotegorylist);
 		category("brand", brandList);

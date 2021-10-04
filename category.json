@@ -1,7 +1,7 @@
 {
 	"items": [
 		{
-			"category": "cd players",
+			"category": "cd_players",
 			"id": "1",
 			"title": "classic_cd",
 			"brand": "creek",
@@ -10,37 +10,38 @@
 				"salePrice": 250,
 				"onsale": true,
 				"cart": true,
-				"currency": "£",
-				"details": {
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/cd_afspillere/creek_classic_cd.jpg"
 		},
 		{
-			"category": "cd players",
+			"category": "cd_players",
 			"id": "2",
 			"title": "Destiny_CD",
 			"brand": "creek",
@@ -49,38 +50,39 @@
 				"salePrice": 250,
 				"onsale": false,
 				"cart": false,
-				"currency": "£",
-				"details": {
-					"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/cd_afspillere/creek_Destiny_CD.jpg"
 		},
 		{
-			"category": "cd players",
+			"category": "cd_players",
 			"id": "3",
 			"title": "evo_cd",
 			"brand": "creek",
@@ -89,38 +91,39 @@
 				"salePrice": 250,
 				"onsale": true,
 				"cart": true,
-				"currency": "£",
-				"details": {
-					"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/cd_afspillere/creek_evo_cd.jpg"
 		},
 		{
-			"category": "cd players",
+			"category": "cd_players",
 			"id": "4",
 			"title": "2010S_CD",
 			"brand": "Exp",
@@ -129,38 +132,39 @@
 				"salePrice": 250,
 				"onsale": true,
 				"cart": true,
-				"currency": "£",
-				"details": {
-					"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/cd_afspillere/Exp_2010S_CD.gif"
 		},
 		{
-			"category": "dvd players",
+			"category": "dvd_players",
 			"id": "5",
 			"title": "classic",
 			"brand": "creek",
@@ -169,38 +173,39 @@
 				"salePrice": 250,
 				"onsale": false,
 				"cart": true,
-				"currency": "£",
-				"details": {
-					"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/dvdafspillere/creek_classic.jpg"
 		},
 		{
-			"category": "dvd players",
+			"category": "dvd_players",
 			"id": "6",
 			"title": "2010S",
 			"brand": "exposure",
@@ -209,38 +214,39 @@
 				"salePrice": 250,
 				"onsale": false,
 				"cart": true,
-				"currency": "£",
-				"details": {
-					"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/dvdafspillere/exposure_2010S.jpg"
 		},
 		{
-			"category": "dvd players",
+			"category": "dvd_players",
 			"id": "7",
 			"title": "d200",
 			"brand": "parasound",
@@ -249,38 +255,39 @@
 				"salePrice": 250,
 				"onsale": true,
 				"cart": true,
-				"currency": "£",
-				"details": {
-					"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/dvdafspillere/parasound_d200.jpg"
 		},
 		{
-			"category": "dvd players",
+			"category": "dvd_players",
 			"id": "8",
 			"title": "halod3",
 			"brand": "parasound",
@@ -289,38 +296,39 @@
 				"salePrice": 250,
 				"onsale": false,
 				"cart": true,
-				"currency": "£",
-				"details": {
-					"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/dvdafspillere/parasound_halod3.jpg"
 		},
 		{
-			"category": "effektforstaerkere",
+			"category": "forstaerkere",
 			"id": "9",
 			"title": "mahi",
 			"brand": "manley",
@@ -329,38 +337,39 @@
 				"salePrice": 250,
 				"onsale": false,
 				"cart": false,
-				"currency": "£",
-				"details": {
-					"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/effektforstaerkere/manley_mahi.jpg"
 		},
 		{
-			"category": "effektforstaerkere",
+			"category": "forstaerkere",
 			"id": "10",
 			"title": "neoclassic300b",
 			"brand": "manley",
@@ -369,38 +378,39 @@
 				"salePrice": 250,
 				"onsale": false,
 				"cart": false,
-				"currency": "£",
-				"details": {
-					"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/effektforstaerkere/manley_neoclassic300b.jpg"
 		},
 		{
-			"category": "effektforstaerkere",
+			"category": "forstaerkere",
 			"id": "11",
 			"title": "snapper",
 			"brand": "manley",
@@ -409,38 +419,39 @@
 				"salePrice": 250,
 				"onsale": false,
 				"cart": false,
-				"currency": "£",
-				"details": {
-					"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/effektforstaerkere/manley_snapper.jpg"
 		},
 		{
-			"category": "effektforstaerkere",
+			"category": "forstaerkere",
 			"id": "12",
 			"title": "haloa23",
 			"brand": "parasound",
@@ -449,38 +460,39 @@
 				"salePrice": 250,
 				"onsale": false,
 				"cart": false,
-				"currency": "£",
-				"details": {
-					"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/effektforstaerkere/parasound_haloa23.jpg"
 		},
 		{
-			"category": "forforstaerkere",
+			"category": "forstaerkere",
 			"id": "13",
 			"title": "OBH_22_Passive_Preamp",
 			"brand": "Creek",
@@ -489,38 +501,39 @@
 				"salePrice": 250,
 				"onsale": false,
 				"cart": false,
-				"currency": "£",
-				"details": {
-					"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/forforstaerkere/Creek_OBH_22_Passive_Preamp.jpg"
 		},
 		{
-			"category": "forforstaerkere",
+			"category": "forstaerkere",
 			"id": "14",
 			"title": "classic7100",
 			"brand": "parasound",
@@ -529,38 +542,39 @@
 				"salePrice": 250,
 				"onsale": false,
 				"cart": false,
-				"currency": "£",
-				"details": {
-					"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/forforstaerkere/parasound_classic7100.jpg"
 		},
 		{
-			"category": "forforstaerkere",
+			"category": "forstaerkere",
 			"id": "15",
 			"title": "halop3",
 			"brand": "parasound",
@@ -569,38 +583,39 @@
 				"salePrice": 250,
 				"onsale": false,
 				"cart": true,
-				"currency": "£",
-				"details": {
-					"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/forforstaerkere/parasound_halop3.jpg"
 		},
 		{
-			"category": "forforstaerkere",
+			"category": "forstaerkere",
 			"id": "16",
 			"title": "prebox",
 			"brand": "Project",
@@ -609,34 +624,35 @@
 				"salePrice": 250,
 				"onsale": false,
 				"cart": true,
-				"currency": "£",
-				"details": {
-					"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/forforstaerkere/Project_prebox.jpg"
 		},
 		{
@@ -649,34 +665,35 @@
 				"salePrice": 250,
 				"onsale": false,
 				"cart": true,
-				"currency": "£",
-				"details": {
-					"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/hojtalere/boesendorfer_vcs_wall.gif"
 		},
 		{
@@ -689,34 +706,35 @@
 				"salePrice": 250,
 				"onsale": false,
 				"cart": true,
-				"currency": "£",
-				"details": {
-					"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/hojtalere/epos_m5.gif"
 		},
 		{
@@ -729,34 +747,35 @@
 				"salePrice": 250,
 				"onsale": false,
 				"cart": true,
-				"currency": "£",
-				"details": {
-					"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/hojtalere/harbeth_hl7es2.jpg"
 		},
 		{
@@ -769,34 +788,35 @@
 				"salePrice": 250,
 				"onsale": false,
 				"cart": true,
-				"currency": "£",
-				"details": {
-					"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/hojtalere/harbeth_monitor30.jpg"
 		},
 		{
@@ -809,38 +829,39 @@
 				"salePrice": 250,
 				"onsale": false,
 				"cart": true,
-				"currency": "£",
-				"details": {
-					"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/hojtalere/harbeth_p3es2.jpg"
 		},
 		{
-			"category": "int_forstaerkere",
+			"category": "forstaerkere",
 			"id": "22",
 			"title": "a50I",
 			"brand": "creek",
@@ -849,38 +870,39 @@
 				"salePrice": 250,
 				"onsale": false,
 				"cart": true,
-				"currency": "£",
-				"details": {
-					"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/int_forstaerkere/creek_a50I.jpg"
 		},
 		{
-			"category": "int_forstaerkere",
+			"category": "forstaerkere",
 			"id": "23",
 			"title": "classic5350SE",
 			"brand": "creek",
@@ -889,38 +911,39 @@
 				"salePrice": 250,
 				"onsale": false,
 				"cart": false,
-				"currency": "£",
-				"details": {
-					"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/int_forstaerkere/creek_classic5350SE.jpg"
 		},
 		{
-			"category": "int_forstaerkere",
+			"category": "forstaerkere",
 			"id": "24",
 			"title": "destinyamp",
 			"brand": "creek",
@@ -929,38 +952,39 @@
 				"salePrice": 250,
 				"onsale": false,
 				"cart": false,
-				"currency": "£",
-				"details": {
-					"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/int_forstaerkere/creek_destinyamp.jpg"
 		},
 		{
-			"category": "int_forstaerkere",
+			"category": "forstaerkere",
 			"id": "25",
 			"title": "snapper",
 			"brand": "manley",
@@ -969,38 +993,39 @@
 				"salePrice": 250,
 				"onsale": true,
 				"cart": true,
-				"currency": "£",
-				"details": {
-					"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/int_forstaerkere/manley_snapper.jpg"
 		},
 		{
-			"category": "int_forstaerkere",
+			"category": "forstaerkere",
 			"id": "26",
 			"title": "Stingray",
 			"brand": "Manley",
@@ -1009,34 +1034,35 @@
 				"salePrice": 250,
 				"onsale": true,
 				"cart": true,
-				"currency": "£",
-				"details": {
-					"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/int_forstaerkere/Manley_Stingray.jpg"
 		},
 		{
@@ -1049,32 +1075,32 @@
 				"salePrice": 250,
 				"onsale": true,
 				"cart": true,
-				"currency": "£",
-				"details": {
-					"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
 			"image": "./images/pladespillere/debut/Pro_ject_Debut_3_bl.jpg"
@@ -1089,34 +1115,35 @@
 				"salePrice": 250,
 				"onsale": false,
 				"cart": true,
-				"currency": "£",
-				"details": {
-					"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/pladespillere/debut/Pro_ject_Debut_III_red_1.jpg"
 		},
 		{
@@ -1129,34 +1156,35 @@
 				"salePrice": 250,
 				"onsale": false,
 				"cart": true,
-				"currency": "£",
-				"details": {
-					"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/pladespillere/debut/Pro_ject_Debut_III_yellow_1.jpg"
 		},
 		{
@@ -1169,34 +1197,35 @@
 				"salePrice": 250,
 				"onsale": false,
 				"cart": true,
-				"currency": "£",
-				"details": {
-					"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/pladespillere/rpm10/Pro_ject_rpm10.jpg"
 		},
 		{
@@ -1209,38 +1238,39 @@
 				"salePrice": 250,
 				"onsale": false,
 				"cart": false,
-				"currency": "£",
-				"details": {
-					"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/pladespillere/rpm5/Pro_ject_rpm_5.jpg"
 		},
 		{
-			"category": "roer_forstaerkere",
+			"category": "forstaerkere",
 			"id": "32",
 			"title": "JD102b",
 			"brand": "jolida",
@@ -1249,38 +1279,39 @@
 				"salePrice": 250,
 				"onsale": false,
 				"cart": true,
-				"currency": "£",
-				"details": {
-					"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/roer_forstaerkere/jolida_JD102b.jpg"
 		},
 		{
-			"category": "roer_forstaerkere",
+			"category": "forstaerkere",
 			"id": "33",
 			"title": "JD202a",
 			"brand": "jolida",
@@ -1289,38 +1320,39 @@
 				"salePrice": 250,
 				"onsale": false,
 				"cart": false,
-				"currency": "£",
-				"details": {
-					"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/roer_forstaerkere/jolida_JD202a.jpg"
 		},
 		{
-			"category": "roer_forstaerkere",
+			"category": "forstaerkere",
 			"id": "34",
 			"title": "JD300b",
 			"brand": "jolida",
@@ -1329,38 +1361,39 @@
 				"salePrice": 250,
 				"onsale": false,
 				"cart": false,
-				"currency": "£",
-				"details": {
-					"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/roer_forstaerkere/jolida_JD300b.jpg"
 		},
 		{
-			"category": "roer_forstaerkere",
+			"category": "forstaerkere",
 			"id": "35",
 			"title": "JD302b",
 			"brand": "jolida",
@@ -1369,38 +1402,38 @@
 				"salePrice": 250,
 				"onsale": false,
 				"cart": false,
-				"currency": "£",
-				"details": {
-					"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
 			"image": "./images/roer_forstaerkere/jolida_JD302b.jpg"
 		},
 		{
-			"category": "roer_forstaerkere",
+			"category": "forstaerkere",
 			"id": "36",
 			"title": "JD502b",
 			"brand": "jolida",
@@ -1409,32 +1442,32 @@
 				"salePrice": 250,
 				"onsale": false,
 				"cart": false,
-				"currency": "£",
-				"details": {
-					"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
-					"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
-					"color": ["black", "silver"],
-					"additionalInfo": {
-						"freeWarranty": "3 years",
-						"deliveryCharge": "Free",
-						"deliveryTime": "1 - 5 working days",
-						"cardSurcharges": "No"
-					},
+				"currency": "£"
+			},
+			"details": {
+				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
+				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
+				"color": ["black", "silver"],
+				"additionalInfo": {
+					"freeWarranty": "3 years",
+					"deliveryCharge": "Free",
+					"deliveryTime": "1 - 5 working days",
+					"cardSurcharges": "No"
+				},
 
-					"description": {
-						"powerOutput": "45 W / 60 W 10Hz",
-						"frequencyResponse": "X 70kHz",
-						"totalHarmonicDistortion": "0.8%",
-						"dampingFactor": "100",
-						"inputSensetivityMm": "2.2mV/47kOhm",
-						"inputSensetivityMc": "x",
-						"signalToNoiseRatio": "83 db/",
-						"inputSensetivityHighLevel": "200 MV /20 kOhm",
-						"inputSensetivityBalancedhighLevel": "x",
-						"signalToNoiseRatioHighLevel": "102 db /(2V input)",
-						"inputSensetivityPowerAmpDirectIn": "x",
-						"signalToNoiseRatioPowerAmpDirectIn": "x"
-					}
+				"description": {
+					"powerOutput": "45 W / 60 W 10Hz",
+					"frequencyResponse": "X 70kHz",
+					"totalHarmonicDistortion": "0.8%",
+					"dampingFactor": "100",
+					"inputSensetivityMm": "2.2mV/47kOhm",
+					"inputSensetivityMc": "x",
+					"signalToNoiseRatio": "83 db/",
+					"inputSensetivityHighLevel": "200 MV /20 kOhm",
+					"inputSensetivityBalancedhighLevel": "x",
+					"signalToNoiseRatioHighLevel": "102 db /(2V input)",
+					"inputSensetivityPowerAmpDirectIn": "x",
+					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
 			"image": "./images/roer_forstaerkere/jolida_JD502b.jpg"
