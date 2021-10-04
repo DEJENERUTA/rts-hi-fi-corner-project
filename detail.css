@@ -169,6 +169,7 @@ form.search::after {
 	padding: 10px;
 	margin-top: 20px;
 	color: #fff;
+	border: none;
 }
 .form-container {
 	border: 1px solid gainsboro;
@@ -205,14 +206,11 @@ form.search::after {
 	align-items: center;
 }
 
-.gray-box label {
-	color: rgb(163, 145, 97);
-	padding: 10px;
-}
 .gray-box button {
 	background-color: rgb(163, 145, 97);
 	color: #fff;
 	padding: 10px;
+	border: none;
 }
 .paypal p {
 	margin-left: 120px;
