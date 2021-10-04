@@ -20,8 +20,9 @@ fetch("./category.json")
 					sale = "";
 				}
 				detailPageLeftContent.innerHTML += `		<p class="uk-edition">
-				<span class="home-amplifier">Home / Amplifiers</span> / Marantz PM6060
-				UK Edition Integrated Amplifiers
+				<span class="home-amplifier">Home / ${item.category}</span> / ${item.brand} ${
+					item.title
+				}
 			</p>
 			<div class="webshop-baner">
 				<img src="images/webshop_banner.png" alt="" />
@@ -29,7 +30,7 @@ fetch("./category.json")
 			<div class="main-details" id="detail-page-left-content">
 				<div class="detail-page-left-content">
 					<div class="main-lefft-img">
-						<img src="images/cd_afspillere/creek_classic_cd.jpg" alt="" />
+						<img src="${item.image}" alt="" />
 					</div>
 					<p class="more-view">MORE VIEWS</p>
 					<div class="mini-img">
