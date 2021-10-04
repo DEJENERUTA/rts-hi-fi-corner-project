@@ -14,10 +14,7 @@ fetch("./category.json")
 			arry.forEach((arrayItem) => {
 				element.innerHTML += `<li>${arrayItem}</li>`;
 			});
-
-			console.log(arry);
 		}
-		/* console.log(result.items); */
 		result.items.forEach((object) => {
 			let sale;
 			if (object.price.onsale) {
@@ -31,7 +28,9 @@ fetch("./category.json")
 			} else {
 				cart = "";
 			}
-			cardList.innerHTML += `<div class="products">
+			cardList.innerHTML += `<a href="detail.html?id=${
+				object.id
+			}"><div class="products">
 			<div class="single-product">
 				<img src="${object.image}" alt="" />
 			</div>
@@ -40,8 +39,7 @@ fetch("./category.json")
 				2
 			)}</p>
 			${cart}
-		</div>`;
-			/* console.log(object.category); */
+		</div></a>`;
 		});
 		category("category", cotegorylist);
 		category("brand", brandList);

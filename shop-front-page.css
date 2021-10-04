@@ -27,45 +27,12 @@ img {
 
 .upper__menu {
 	display: flex;
-	justify-content: space-between;
-	align-items: center;
-	width: 100%;
-	padding: 20px;
-	border-bottom: 1px solid rgb(163, 145, 97);
-}
-
-.header__logo {
-	background-image: url("images/banner-speaker.jpg");
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-size: cover;
-}
-.header__logo img {
-	width: 150px;
-}
-.stock-info {
-	color: rgb(163, 145, 97) !important;
-	padding: 0px;
-}
-.brands-title {
-	color: rgb(163, 145, 97);
-	padding: 10px;
-}
-.brand-link {
-	color: rgb(163, 145, 97);
-	padding: 10px;
-}
-.header-right {
-	display: flex;
-	align-items: center;
-}
-.upper__menu {
-	display: flex;
 	justify-content: flex-end;
 	width: 100%;
 	padding: 20px;
 	border-bottom: 1px solid rgb(163, 145, 97);
 }
+
 .header__menu--icons {
 	display: flex;
 	gap: 20px;
@@ -88,41 +55,43 @@ img {
 .selected {
 	color: rgb(163, 145, 97);
 }
+.grid-container {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	grid-template-rows: repeat(3, 1fr);
+	background-color: rgb(163, 145, 97);
+}
+.brands {
+	position: relative;
+	text-align: center;
+	color: white;
+}
+.items-name {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: #fff;
+	text-decoration: underline;
+}
+.shop-button {
+	background-color: rgb(163, 145, 97);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.shop-now {
+	background-color: rgb(104, 82, 37);
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+	border: none;
+}
 .footer {
 	display: flex;
 	justify-content: space-between;
 	padding: 10px;
 	background-color: rgb(163, 145, 97);
-}
-.top-brand-title {
-	color: #fff;
-	font-size: 22px;
-}
-.header__logo {
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
-	padding: 30px;
-}
-.brands-baner {
-	background: linear-gradient(
-		90deg,
-		rgba(6, 6, 6, 1) 0%,
-		rgba(33, 33, 33, 1) 100%
-	);
-}
-
-.brands-baner img {
-	width: 600px;
-	margin: 10px;
-}
-.store {
-	display: flex;
-	padding: 20px;
-}
-.brands-baner p {
-	color: #fff;
-	margin: 10px;
 }
 .footer-left,
 .footer-right {
