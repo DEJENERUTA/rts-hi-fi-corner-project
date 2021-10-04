@@ -41,6 +41,7 @@
 	margin-top: 30px;
 	background-color: rgb(225, 225, 225);
 	padding: 20px;
+	gap: 5%;
 }
 .flex-container {
 	display: flex;
@@ -72,7 +73,9 @@
 	color: rgb(163, 145, 97);
 }
 .sorting-left-icons {
+	display: flex;
 	margin-top: 10px;
+	gap: 10px;
 }
 .sorting-right {
 	display: flex;
@@ -143,7 +146,7 @@ h6 {
 .footer {
 	display: flex;
 	justify-content: space-between;
-	padding: 10px;
+	padding: 10px 20px;
 	background-color: rgb(163, 145, 97);
 }
 .footer-left,
