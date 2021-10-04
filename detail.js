@@ -46,56 +46,55 @@ fetch("./category.json")
 							<li>
 								<p>Power Output(8/4 Ohm RAMS)</p>
 								<p>
-									45 W/ 60 W<br />
-									10Hz
+									${item.details.description.powerOutput} 
+									
 								</p>
 							</li>
 							<li>
 								<p>Frequency Response</p>
 								<p>
-									X <br />
-									70kHz
+								${item.details.description.frequencyResponse}
 								</p>
 							</li>
 							<li>
 								<p>Total Harmonic Distortion</p>
-								<p>0.8%</p>
+								<p>${item.details.description.totalHarmonicDistortion}</p>
 							</li>
 							<li>
 								<p>Damping Factor</p>
-								<p>100</p>
+								<p>${item.details.description.dampingFactor}</p>
 							</li>
 							<li>
 								<p>Input Sensetivity:MM</p>
-								<p>2.2mV/47kOhm</p>
+								<p>${item.details.description.inputSensetivityMm}</p>
 							</li>
 							<li>
 								<p>Input Sensetivity: MC</p>
-								<p>X</p>
+								<p>${item.details.description.inputSensetivityMc}</p>
 							</li>
 							<li>
 								<p>Signal to Noise Ratio: MM/MC</p>
-								<p>83 db/</p>
+								<p>${item.details.description.signalToNoiseRatio}</p>
 							</li>
 							<li>
 								<p>Input Sensetivity: High level</p>
-								<p>200 MV /20 kOhm</p>
+								<p>${item.details.description.inputSensetivityHighLevel}</p>
 							</li>
 							<li>
 								<p>Input Sensetivity: Balanced High level</p>
-								<p>X</p>
+								<p>${item.details.description.inputSensetivityBalancedhighLevel}</p>
 							</li>
 							<li>
 								<p>Signal to Noise Ratio: High level</p>
-								<p>102 db /(2V input)</p>
+								<p>${item.details.description.signalToNoiseRatioHighLevel}</p>
 							</li>
 							<li>
 								<p>Input Sensetivity: Power Amp Direct IN</p>
-								<p>X</p>
+								<p>${item.details.description.inputSensetivityPowerAmpDirectIn}</p>
 							</li>
 							<li>
 								<p>Signal to Noise Ratio:Power Amp Direct IN</p>
-								<p>X</p>
+								<p>${item.details.description.signalToNoiseRatioPowerAmpDirectIn}</p>
 							</li>
 						</ul>
 					</div>
