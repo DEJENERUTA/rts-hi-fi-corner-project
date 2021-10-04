@@ -82,7 +82,7 @@ h2 {
 	color: lightgray;
 	margin-right: 20px;
 	font-size: 20px;
-	margin-top: 5px;
+	align-items: center;
 }
 .lower-menu {
 	background-color: #000000;
@@ -152,17 +152,19 @@ hr {
 	display: flex;
 }
 .front-page-social-imag {
+	height: 100%;
+}
+.social-container {
 	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 .social-facebook,
 .social-blog,
 .social-twitter {
-	width: 300px;
-	bottom: -125%;
-	justify-content: center;
-	align-items: center;
+	width: 40%;
 	position: absolute;
-	margin-left: 100px;
 }
 .front-page-footer-info {
 	display: flex;
@@ -185,7 +187,7 @@ hr {
 .footer {
 	display: flex;
 	justify-content: space-between;
-	padding: 10px;
+	padding: 10px 20px;
 	background-color: rgb(163, 145, 97);
 }
 .footer-left,
@@ -207,6 +209,7 @@ hr {
 	gap: 5%;
 	color: #fff;
 }
+
 .footer-nav i {
 	color: #fff;
 }
