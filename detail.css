@@ -93,6 +93,10 @@ form.search::after {
 .selected {
 	color: rgb(163, 145, 97);
 }
+a {
+	color: inherit;
+	text-decoration: none;
+}
 .uk-edition {
 	margin: 20px;
 }
@@ -163,6 +167,9 @@ form.search::after {
 .onsale {
 	text-decoration: line-through;
 	color: #000;
+}
+.gray-box input {
+	padding: 8px;
 }
 .detail-button {
 	background-color: rgb(163, 145, 97);
