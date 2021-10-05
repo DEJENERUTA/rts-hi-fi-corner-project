@@ -93,6 +93,10 @@ form.search::after {
 .selected {
 	color: rgb(163, 145, 97);
 }
+a {
+	color: inherit;
+	text-decoration: none;
+}
 .uk-edition {
 	margin: 20px;
 }
@@ -164,11 +168,15 @@ form.search::after {
 	text-decoration: line-through;
 	color: #000;
 }
+.gray-box input {
+	padding: 8px;
+}
 .detail-button {
 	background-color: rgb(163, 145, 97);
 	padding: 10px;
 	margin-top: 20px;
 	color: #fff;
+	border: none;
 }
 .form-container {
 	border: 1px solid gainsboro;
@@ -205,14 +213,11 @@ form.search::after {
 	align-items: center;
 }
 
-.gray-box label {
-	color: rgb(163, 145, 97);
-	padding: 10px;
-}
 .gray-box button {
 	background-color: rgb(163, 145, 97);
 	color: #fff;
 	padding: 10px;
+	border: none;
 }
 .paypal p {
 	margin-left: 120px;

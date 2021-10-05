@@ -5,6 +5,9 @@ const search = param.get("search");
 const cotegorylist = document.querySelector("#category-list");
 const cardList = document.querySelector("#card-list");
 const brandList = document.querySelector("#brand-list");
+const title = document.querySelector("#title");
+const miniTitle = document.querySelector("#mini-title");
+
 fetch("./category.json")
 	.then((response) => response.json())
 	.then((result) => {
@@ -44,6 +47,11 @@ fetch("./category.json")
 			)}</p>
 			${cart}
 		</div></a>`;
+		}
+
+		if (search) {
+			miniTitle.innerHTML += search;
+			title.append(search.toUpperCase());
 		}
 		result.items.forEach((object) => {
 			if (search && object.category == search) {
