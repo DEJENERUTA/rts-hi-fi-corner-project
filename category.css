@@ -285,35 +285,41 @@ h6 {
 	color: #fff;
 }
 
-.footer {
+.Footer--main {
 	display: flex;
 	justify-content: space-between;
 	padding: 10px 20px;
 	background-color: rgb(163, 145, 97);
 }
 
-.footer-left,
-.footer-right {
+.Footer--main__left,
+.Footer--main__right {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
 	justify-content: center;
 }
 
-.footer-img {
+.Footer--main__img {
 	width: 400px;
 }
 
-.footer-left a {
+.Footer--main__left .Footer--main__link {
 	color: #fff;
 	margin-left: 20px;
 }
 
-.footer-nav {
+.Footer--main__nav {
 	display: flex;
-	color: #fff;
-	margin-left: 30px;
 	gap: 5%;
+	color: #fff;
+}
+
+.Footer--main__nav i {
+	color: #fff;
+}
+.Footer--main__link {
+	text-decoration: underline;
 }
 
 a {
