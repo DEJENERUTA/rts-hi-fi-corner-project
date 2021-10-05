@@ -152,7 +152,8 @@ a {
 .mini-img {
 	display: flex;
 	width: 50px;
-	gap: 10%;
+	gap: 30px;
+	margin-top: 20px;
 }
 
 .desc {
