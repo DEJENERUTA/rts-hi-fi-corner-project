@@ -26,11 +26,11 @@ img {
 	display: block;
 }
 
-.header {
+.Header {
 	background-color: #000000;
 }
 
-.upper__menu {
+.Header__upper-menu {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
@@ -39,12 +39,12 @@ img {
 	border-bottom: 1px solid rgb(163, 145, 97);
 }
 
-.header__logo--img {
+.Header__logo--img {
 	font-size: 100px;
 	width: 100px;
 }
 
-.header-right {
+.Header__right {
 	display: flex;
 	align-items: center;
 }
@@ -78,7 +78,7 @@ form.search::after {
 	display: table;
 }
 
-.header__menu--icons {
+.Header__menu--icons {
 	display: flex;
 	justify-content: flex-end;
 	gap: 20px;
@@ -86,11 +86,11 @@ form.search::after {
 	margin-right: 20px;
 }
 
-.lower-menu {
+.Header__lower-menu {
 	background-color: #000000;
 }
 
-.ul {
+.Header__nav__ul {
 	display: flex;
 	justify-content: center;
 	gap: 20px;
@@ -98,7 +98,7 @@ form.search::after {
 	padding: 15px;
 }
 
-.Nav__ul__li {
+.Header__nav__ul__li {
 	list-style: none;
 }
 

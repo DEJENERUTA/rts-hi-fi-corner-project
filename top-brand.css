@@ -26,11 +26,11 @@ img {
 	display: block;
 }
 
-.header {
+.Header {
 	background-color: #000000;
 }
 
-.upper__menu {
+.Header__upper-menu {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
@@ -39,7 +39,7 @@ img {
 	border-bottom: 1px solid rgb(163, 145, 97);
 }
 
-.header__logo {
+.Header__logo {
 	background-image: url("images/banner-speaker.jpg");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -70,12 +70,12 @@ a {
 	padding: 10px;
 }
 
-.header-right {
+.Header__right {
 	display: flex;
 	align-items: center;
 }
 
-.upper__menu {
+.Header__upper-menu {
 	display: flex;
 	justify-content: flex-end;
 	width: 100%;
@@ -83,18 +83,18 @@ a {
 	border-bottom: 1px solid rgb(163, 145, 97);
 }
 
-.header__menu--icons {
+.Header__menu--icons {
 	display: flex;
 	gap: 20px;
 	color: lightgray;
 	margin-right: 20px;
 }
 
-.lower-menu {
+.Header__lower-menu {
 	background-color: #000000;
 }
 
-.ul {
+.Header__nav__ul {
 	display: flex;
 	justify-content: center;
 	gap: 20px;
@@ -102,7 +102,7 @@ a {
 	padding: 15px;
 }
 
-.Nav__ul__li {
+.Header__nav__ul__li {
 	list-style: none;
 }
 
@@ -115,7 +115,7 @@ a {
 	font-size: 22px;
 }
 
-.header__logo {
+.Header__logo {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
