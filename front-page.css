@@ -51,11 +51,14 @@ h2 {
 }
 
 .logo-image {
+	display: flex;
+	justify-content: center;
+	align-items: center;
 	font-size: 100px;
-	width: 200px;
-	position: absolute;
-	bottom: 50%;
-	right: 30%;
+	height: 100%;
+}
+.logo-image img {
+	width: 100px;
 }
 
 .header__logo img {
@@ -103,6 +106,14 @@ h2 {
 
 .selected {
 	color: rgb(163, 145, 97);
+}
+.front-page-background {
+	background-image: url("images/bg-home.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	height: 500px;
+	background-position: center;
 }
 
 a {
