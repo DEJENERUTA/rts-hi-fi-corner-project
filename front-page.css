@@ -219,36 +219,39 @@ hr {
 	padding: 10px;
 }
 
-.footer {
+.footer--main {
 	display: flex;
 	justify-content: space-between;
 	padding: 10px 20px;
 	background-color: rgb(163, 145, 97);
 }
 
-.footer-left,
-.footer-right {
+.footer--main__left,
+.footer--main__right {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
 	justify-content: center;
 }
 
-.footer-img {
+.footer--main__img {
 	width: 400px;
 }
 
-.footer-left a {
+.footer--main__left .footer--main__link {
 	color: #fff;
 	margin-left: 20px;
 }
 
-.footer-nav {
+.footer--main__nav {
 	display: flex;
 	gap: 5%;
 	color: #fff;
 }
 
-.footer-nav i {
+.footer--main__nav i {
 	color: #fff;
+}
+.footer--main__link {
+	text-decoration: underline;
 }
