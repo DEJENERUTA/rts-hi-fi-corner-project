@@ -27,26 +27,27 @@ h2 {
 	font-size: 32px;
 }
 
-.header {
+.Header {
 	position: absolute;
 	width: 100%;
 }
 
-.lower-menu {
+.Header__lower-menu {
 	background-color: #000000;
 }
 
-.upper__menu {
+.Header__upper-menu {
 	display: flex;
-	justify-content: space-between;
+	justify-content: flex-end;
 	align-items: center;
 	width: 100%;
 	padding: 20px;
 	border-bottom: 1px solid rgb(163, 145, 97);
-}
-
-.opacity-uper-menu {
 	background-color: rgba(0, 0, 0, 50%);
+	gap: 20px;
+	color: lightgray;
+	margin-right: 20px;
+	font-size: 20px;
 }
 
 .logo-image {
@@ -76,12 +77,7 @@ h2 {
 	padding: 10px;
 }
 
-.header-right {
-	display: flex;
-	align-items: center;
-}
-
-.upper__menu {
+.Header__upper-menu {
 	display: flex;
 	justify-content: flex-end;
 	width: 100%;
@@ -89,20 +85,11 @@ h2 {
 	border-bottom: 1px solid rgb(163, 145, 97);
 }
 
-.header__menu--icons {
-	display: flex;
-	gap: 20px;
-	color: lightgray;
-	margin-right: 20px;
-	font-size: 20px;
-	align-items: center;
-}
-
-.lower-menu {
+.Header__lower-menu {
 	background-color: #000000;
 }
 
-.ul {
+.Header__nav__ul {
 	display: flex;
 	justify-content: center;
 	gap: 20px;
@@ -110,7 +97,7 @@ h2 {
 	padding: 15px;
 }
 
-.Nav__ul__li {
+.Header__nav__ul__li {
 	list-style: none;
 }
 
@@ -204,6 +191,7 @@ hr {
 	color: #fff;
 	background-color: #000000;
 	padding: 30px;
+	justify-content: center;
 }
 
 .front-page-footer-info button {

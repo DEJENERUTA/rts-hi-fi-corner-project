@@ -26,11 +26,11 @@ img {
 	display: block;
 }
 
-.header {
+.Header {
 	background-color: #000000;
 }
 
-.upper__menu {
+.Header__upper-menu {
 	display: flex;
 	justify-content: flex-end;
 	width: 100%;
@@ -38,18 +38,18 @@ img {
 	border-bottom: 1px solid rgb(163, 145, 97);
 }
 
-.header__menu--icons {
+.Header__menu--icons {
 	display: flex;
 	gap: 20px;
 	color: lightgray;
 	margin-right: 20px;
 }
 
-.lower-menu {
+.Header__lower-menu {
 	background-color: #000000;
 }
 
-.ul {
+.Header__nav__ul {
 	display: flex;
 	justify-content: center;
 	gap: 20px;
@@ -57,7 +57,7 @@ img {
 	padding: 15px;
 }
 
-.Nav__ul__li {
+.Header__nav__ul__li {
 	list-style: none;
 }
 
