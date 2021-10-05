@@ -22,6 +22,7 @@ fetch("./category.json")
 				element.innerHTML += `<li>${arrayItem}</li>`;
 			});
 		}
+
 		function createProduct(object) {
 			let sale;
 			if (object.price.onsale) {
@@ -35,6 +36,7 @@ fetch("./category.json")
 			} else {
 				cart = "";
 			}
+
 			cardList.innerHTML += `<a href="detail.html?id=${
 				object.id
 			}"><div class="products">
@@ -53,6 +55,7 @@ fetch("./category.json")
 			miniTitle.innerHTML += search;
 			title.append(search.toUpperCase());
 		}
+
 		result.items.forEach((object) => {
 			if (search && object.category == search) {
 				createProduct(object);
