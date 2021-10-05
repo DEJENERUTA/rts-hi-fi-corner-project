@@ -3,24 +3,29 @@
 	margin: 0;
 	box-sizing: border-box;
 }
+
 html {
 	height: 100%;
 }
+
 body {
 	background-color: #fff;
 	display: grid;
 	grid-template-rows: auto 1fr auto;
 	height: 100%;
 }
+
 .wrapper {
 	max-width: 1280px;
 	margin: 0 auto;
 }
+
 img {
 	width: 100%;
 	height: auto;
 	display: block;
 }
+
 .header {
 	background-color: #000000;
 }
@@ -38,15 +43,18 @@ img {
 	font-size: 100px;
 	width: 100px;
 }
+
 .header-right {
 	display: flex;
 	align-items: center;
 }
+
 form.search {
 	margin-right: 40px;
 	display: flex;
 	height: 48px;
 }
+
 form.search input[type="text"] {
 	padding-inline: 20px;
 	font-size: 14px;
@@ -77,9 +85,11 @@ form.search::after {
 	color: lightgray;
 	margin-right: 20px;
 }
+
 .lower-menu {
 	background-color: #000000;
 }
+
 .ul {
 	display: flex;
 	justify-content: center;
@@ -87,15 +97,19 @@ form.search::after {
 	color: #fff;
 	padding: 15px;
 }
+
 .Nav__ul__li {
 	list-style: none;
 }
+
 .selected {
 	color: rgb(163, 145, 97);
 }
+
 .container-search {
 	margin-top: 30px;
 }
+
 .home {
 	color: rgb(163, 145, 97);
 }
@@ -110,41 +124,50 @@ form.search::after {
 	width: 25%;
 	background-color: #fff;
 }
+
 .card-desc li {
 	margin-right: 20px;
 	line-height: 1.5;
 	color: rgb(163, 145, 97);
 	list-style: none;
 }
+
 .shop {
 	margin: 10px;
 	color: rgb(163, 145, 97);
 	font-size: 16px;
 }
+
 .mini-heading {
 	color: #000;
 }
+
 .first-brands {
 	background-color: rgb(225, 225, 225);
 	padding: 20px;
 }
+
 .another-brands,
 .last-li {
 	color: rgb(163, 145, 97);
 }
+
 .another-brands {
 	margin-top: 30px;
 	background-color: rgb(225, 225, 225);
 	padding: 20px;
 	gap: 5%;
 }
+
 .flex-container {
 	display: flex;
 	justify-content: space-between;
 }
+
 .cards {
 	border: 1px solid white;
 }
+
 .cards {
 	display: grid;
 	grid-template-columns: repeat(4, 1fr);
@@ -152,6 +175,7 @@ form.search::after {
 	align-content: center;
 	gap: 20px;
 }
+
 .sorting {
 	display: flex;
 	justify-content: space-between;
@@ -160,44 +184,53 @@ form.search::after {
 	margin-top: 10px;
 	margin-bottom: 20px;
 }
+
 .sorting-left {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
 	gap: 10px;
 }
+
 .window {
 	color: rgb(163, 145, 97);
 }
+
 .sorting-left-icons {
 	display: flex;
 	margin-top: 10px;
 	gap: 10px;
 }
+
 .sorting-right {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
 	gap: 10px;
 }
+
 .products {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 }
+
 .products h3 {
 	margin-top: 10px;
 	line-height: 1.5;
 }
+
 .products span {
 	text-decoration: line-through;
 	color: #000;
 	padding-right: 10px;
 }
+
 .products p {
 	margin-top: 10px;
 	color: rgb(163, 145, 97);
 }
+
 .single-product {
 	display: flex;
 	align-items: center;
@@ -206,48 +239,59 @@ form.search::after {
 	height: 150px;
 	overflow: hidden;
 }
+
 .products-info p {
 	display: flex;
 	gap: 20px;
 }
+
 .right-info {
 	margin-right: 10px;
 }
+
 .right-info h2 {
 	color: rgb(163, 145, 97);
 	font-size: 18px;
 }
+
 .right-info li {
 	list-style: none;
 	padding: 10px;
 	font-size: 14px;
 }
+
 .right-info p {
 	color: rgb(163, 145, 97);
 }
+
 h3 {
 	font-size: 12px;
 	text-align: center;
 }
+
 h5 {
 	margin-top: 10px;
 }
+
 h6 {
 	margin: 10px;
 	font-size: 14px;
 }
+
 .cart-button {
 	background-color: rgb(163, 145, 97);
 	margin: 20px;
 	padding: 10px;
 	color: #fff;
 }
+
 .footer {
 	display: flex;
 	justify-content: space-between;
 	padding: 10px 20px;
 	background-color: rgb(163, 145, 97);
 }
+
 .footer-left,
 .footer-right {
 	display: flex;
@@ -255,13 +299,16 @@ h6 {
 	align-items: center;
 	justify-content: center;
 }
+
 .footer-img {
 	width: 400px;
 }
+
 .footer-left a {
 	color: #fff;
 	margin-left: 20px;
 }
+
 .footer-nav {
 	display: flex;
 	color: #fff;

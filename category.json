@@ -12,6 +12,7 @@
 				"cart": true,
 				"currency": "£"
 			},
+
 			"details": {
 				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
 				"color": ["black", "silver"],
@@ -40,6 +41,7 @@
 
 			"image": "./images/cd_afspillere/creek_classic_cd.jpg"
 		},
+
 		{
 			"category": "cd_players",
 			"id": "2",
@@ -52,6 +54,7 @@
 				"cart": false,
 				"currency": "£"
 			},
+
 			"details": {
 				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
 				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
@@ -81,6 +84,7 @@
 
 			"image": "./images/cd_afspillere/creek_Destiny_CD.jpg"
 		},
+
 		{
 			"category": "cd_players",
 			"id": "3",
@@ -93,6 +97,7 @@
 				"cart": true,
 				"currency": "£"
 			},
+
 			"details": {
 				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
 				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
@@ -122,6 +127,7 @@
 
 			"image": "./images/cd_afspillere/creek_evo_cd.jpg"
 		},
+
 		{
 			"category": "cd_players",
 			"id": "4",
@@ -134,6 +140,7 @@
 				"cart": true,
 				"currency": "£"
 			},
+
 			"details": {
 				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
 				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
@@ -163,6 +170,7 @@
 
 			"image": "./images/cd_afspillere/Exp_2010S_CD.gif"
 		},
+
 		{
 			"category": "dvd_players",
 			"id": "5",
@@ -175,6 +183,7 @@
 				"cart": true,
 				"currency": "£"
 			},
+
 			"details": {
 				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
 				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
@@ -204,6 +213,7 @@
 
 			"image": "./images/dvdafspillere/creek_classic.jpg"
 		},
+
 		{
 			"category": "dvd_players",
 			"id": "6",
@@ -216,6 +226,7 @@
 				"cart": true,
 				"currency": "£"
 			},
+
 			"details": {
 				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
 				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
@@ -245,6 +256,7 @@
 
 			"image": "./images/dvdafspillere/exposure_2010S.jpg"
 		},
+
 		{
 			"category": "dvd_players",
 			"id": "7",
@@ -257,6 +269,7 @@
 				"cart": true,
 				"currency": "£"
 			},
+
 			"details": {
 				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
 				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
@@ -286,6 +299,7 @@
 
 			"image": "./images/dvdafspillere/parasound_d200.jpg"
 		},
+
 		{
 			"category": "dvd_players",
 			"id": "8",
@@ -298,6 +312,7 @@
 				"cart": true,
 				"currency": "£"
 			},
+
 			"details": {
 				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
 				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
@@ -327,6 +342,7 @@
 
 			"image": "./images/dvdafspillere/parasound_halod3.jpg"
 		},
+
 		{
 			"category": "forstaerkere",
 			"id": "9",
@@ -339,6 +355,7 @@
 				"cart": false,
 				"currency": "£"
 			},
+
 			"details": {
 				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
 				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
@@ -368,6 +385,7 @@
 
 			"image": "./images/effektforstaerkere/manley_mahi.jpg"
 		},
+
 		{
 			"category": "forstaerkere",
 			"id": "10",
@@ -380,6 +398,7 @@
 				"cart": false,
 				"currency": "£"
 			},
+
 			"details": {
 				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
 				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
@@ -409,6 +428,7 @@
 
 			"image": "./images/effektforstaerkere/manley_neoclassic300b.jpg"
 		},
+
 		{
 			"category": "forstaerkere",
 			"id": "11",
@@ -421,6 +441,7 @@
 				"cart": false,
 				"currency": "£"
 			},
+
 			"details": {
 				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
 				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
@@ -450,6 +471,7 @@
 
 			"image": "./images/effektforstaerkere/manley_snapper.jpg"
 		},
+
 		{
 			"category": "forstaerkere",
 			"id": "12",
@@ -462,6 +484,7 @@
 				"cart": false,
 				"currency": "£"
 			},
+
 			"details": {
 				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
 				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
@@ -491,6 +514,7 @@
 
 			"image": "./images/effektforstaerkere/parasound_haloa23.jpg"
 		},
+
 		{
 			"category": "forstaerkere",
 			"id": "13",
@@ -503,6 +527,7 @@
 				"cart": false,
 				"currency": "£"
 			},
+
 			"details": {
 				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
 				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
@@ -532,6 +557,7 @@
 
 			"image": "./images/forforstaerkere/Creek_OBH_22_Passive_Preamp.jpg"
 		},
+
 		{
 			"category": "forstaerkere",
 			"id": "14",
@@ -544,6 +570,7 @@
 				"cart": false,
 				"currency": "£"
 			},
+
 			"details": {
 				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
 				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
@@ -573,6 +600,7 @@
 
 			"image": "./images/forforstaerkere/parasound_classic7100.jpg"
 		},
+
 		{
 			"category": "forstaerkere",
 			"id": "15",
@@ -585,6 +613,7 @@
 				"cart": true,
 				"currency": "£"
 			},
+
 			"details": {
 				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
 				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
@@ -614,6 +643,7 @@
 
 			"image": "./images/forforstaerkere/parasound_halop3.jpg"
 		},
+
 		{
 			"category": "forstaerkere",
 			"id": "16",
@@ -626,6 +656,7 @@
 				"cart": true,
 				"currency": "£"
 			},
+
 			"details": {
 				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
 				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
@@ -655,6 +686,7 @@
 
 			"image": "./images/forforstaerkere/Project_prebox.jpg"
 		},
+
 		{
 			"category": "hojtalere",
 			"id": "17",
@@ -667,6 +699,7 @@
 				"cart": true,
 				"currency": "£"
 			},
+
 			"details": {
 				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
 				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
@@ -696,6 +729,7 @@
 
 			"image": "./images/hojtalere/boesendorfer_vcs_wall.gif"
 		},
+
 		{
 			"category": "hojtalere",
 			"id": "18",
@@ -708,6 +742,7 @@
 				"cart": true,
 				"currency": "£"
 			},
+
 			"details": {
 				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
 				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
@@ -737,6 +772,7 @@
 
 			"image": "./images/hojtalere/epos_m5.gif"
 		},
+
 		{
 			"category": "hojtalere",
 			"id": "19",
@@ -749,6 +785,7 @@
 				"cart": true,
 				"currency": "£"
 			},
+
 			"details": {
 				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
 				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
@@ -778,6 +815,7 @@
 
 			"image": "./images/hojtalere/harbeth_hl7es2.jpg"
 		},
+
 		{
 			"category": "hojtalere",
 			"id": "20",
@@ -790,6 +828,7 @@
 				"cart": true,
 				"currency": "£"
 			},
+
 			"details": {
 				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
 				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
@@ -819,6 +858,7 @@
 
 			"image": "./images/hojtalere/harbeth_monitor30.jpg"
 		},
+
 		{
 			"category": "hojtalere",
 			"id": "21",
@@ -831,6 +871,7 @@
 				"cart": true,
 				"currency": "£"
 			},
+
 			"details": {
 				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
 				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
@@ -860,6 +901,7 @@
 
 			"image": "./images/hojtalere/harbeth_p3es2.jpg"
 		},
+
 		{
 			"category": "forstaerkere",
 			"id": "22",
@@ -901,6 +943,7 @@
 
 			"image": "./images/int_forstaerkere/creek_a50I.jpg"
 		},
+
 		{
 			"category": "forstaerkere",
 			"id": "23",
@@ -913,6 +956,7 @@
 				"cart": false,
 				"currency": "£"
 			},
+
 			"details": {
 				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
 				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
@@ -942,6 +986,7 @@
 
 			"image": "./images/int_forstaerkere/creek_classic5350SE.jpg"
 		},
+
 		{
 			"category": "forstaerkere",
 			"id": "24",
@@ -954,6 +999,7 @@
 				"cart": false,
 				"currency": "£"
 			},
+
 			"details": {
 				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
 				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
@@ -983,6 +1029,7 @@
 
 			"image": "./images/int_forstaerkere/creek_destinyamp.jpg"
 		},
+
 		{
 			"category": "forstaerkere",
 			"id": "25",
@@ -995,6 +1042,7 @@
 				"cart": true,
 				"currency": "£"
 			},
+
 			"details": {
 				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
 				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
@@ -1024,6 +1072,7 @@
 
 			"image": "./images/int_forstaerkere/manley_snapper.jpg"
 		},
+
 		{
 			"category": "forstaerkere",
 			"id": "26",
@@ -1036,6 +1085,7 @@
 				"cart": true,
 				"currency": "£"
 			},
+
 			"details": {
 				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
 				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
@@ -1065,6 +1115,7 @@
 
 			"image": "./images/int_forstaerkere/Manley_Stingray.jpg"
 		},
+
 		{
 			"category": "pladespillere",
 			"id": "27",
@@ -1077,6 +1128,7 @@
 				"cart": true,
 				"currency": "£"
 			},
+
 			"details": {
 				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
 				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
@@ -1103,8 +1155,10 @@
 					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/pladespillere/debut/Pro_ject_Debut_3_bl.jpg"
 		},
+
 		{
 			"category": "pladespillere",
 			"id": "28",
@@ -1117,6 +1171,7 @@
 				"cart": true,
 				"currency": "£"
 			},
+
 			"details": {
 				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
 				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
@@ -1146,6 +1201,7 @@
 
 			"image": "./images/pladespillere/debut/Pro_ject_Debut_III_red_1.jpg"
 		},
+
 		{
 			"category": "pladespillere",
 			"id": "29",
@@ -1158,6 +1214,7 @@
 				"cart": true,
 				"currency": "£"
 			},
+
 			"details": {
 				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
 				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
@@ -1187,6 +1244,7 @@
 
 			"image": "./images/pladespillere/debut/Pro_ject_Debut_III_yellow_1.jpg"
 		},
+
 		{
 			"category": "pladespillere",
 			"id": "30",
@@ -1199,6 +1257,7 @@
 				"cart": true,
 				"currency": "£"
 			},
+
 			"details": {
 				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
 				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
@@ -1228,6 +1287,7 @@
 
 			"image": "./images/pladespillere/rpm10/Pro_ject_rpm10.jpg"
 		},
+
 		{
 			"category": "pladespillere",
 			"id": "31",
@@ -1240,6 +1300,7 @@
 				"cart": false,
 				"currency": "£"
 			},
+
 			"details": {
 				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
 				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
@@ -1269,6 +1330,7 @@
 
 			"image": "./images/pladespillere/rpm5/Pro_ject_rpm_5.jpg"
 		},
+
 		{
 			"category": "forstaerkere",
 			"id": "32",
@@ -1281,6 +1343,7 @@
 				"cart": true,
 				"currency": "£"
 			},
+
 			"details": {
 				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
 				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
@@ -1310,6 +1373,7 @@
 
 			"image": "./images/roer_forstaerkere/jolida_JD102b.jpg"
 		},
+
 		{
 			"category": "forstaerkere",
 			"id": "33",
@@ -1322,6 +1386,7 @@
 				"cart": false,
 				"currency": "£"
 			},
+
 			"details": {
 				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
 				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
@@ -1351,6 +1416,7 @@
 
 			"image": "./images/roer_forstaerkere/jolida_JD202a.jpg"
 		},
+
 		{
 			"category": "forstaerkere",
 			"id": "34",
@@ -1363,6 +1429,7 @@
 				"cart": false,
 				"currency": "£"
 			},
+
 			"details": {
 				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
 				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
@@ -1392,6 +1459,7 @@
 
 			"image": "./images/roer_forstaerkere/jolida_JD300b.jpg"
 		},
+
 		{
 			"category": "forstaerkere",
 			"id": "35",
@@ -1404,6 +1472,7 @@
 				"cart": false,
 				"currency": "£"
 			},
+
 			"details": {
 				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
 				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
@@ -1430,8 +1499,10 @@
 					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/roer_forstaerkere/jolida_JD302b.jpg"
 		},
+
 		{
 			"category": "forstaerkere",
 			"id": "36",
@@ -1444,6 +1515,7 @@
 				"cart": false,
 				"currency": "£"
 			},
+
 			"details": {
 				"name": "Marantz PM6060 UK Edition Integrated Amplifiers",
 				"productInfo": "The PM6006 is an upgraded successor of the multi-award-winning PM6005. Marantz retained the pre-amp and power-amp sections that exclusively featured discret components-not a single IC in sight of the signal path.the PM6006 is upgraded for peak current at the amplifier stage, which makes it possible to refine the sound for you in much more detail",
@@ -1470,6 +1542,7 @@
 					"signalToNoiseRatioPowerAmpDirectIn": "x"
 				}
 			},
+
 			"image": "./images/roer_forstaerkere/jolida_JD502b.jpg"
 		}
 	]

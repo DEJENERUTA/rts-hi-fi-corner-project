@@ -1,7 +1,6 @@
 const url = window.location.search;
 const param = new URLSearchParams(url);
 const id = param.get("id");
-console.log(id);
 const detailTitle = document.querySelector("#detail-title");
 const detail = document.querySelector("#detail");
 const detailPageLeftContent = document.querySelector(
@@ -19,6 +18,7 @@ fetch("./category.json")
 				} else {
 					sale = "";
 				}
+
 				detailPageLeftContent.innerHTML += `		<p class="uk-edition">
 				<span class="home-amplifier">Home / ${item.category}</span> / ${item.brand} ${
 					item.title
@@ -47,7 +47,6 @@ fetch("./category.json")
 								<p>Power Output(8/4 Ohm RAMS)</p>
 								<p>
 									${item.details.description.powerOutput} 
-									
 								</p>
 							</li>
 							<li>
@@ -117,6 +116,7 @@ fetch("./category.json")
 			<p>
 				${item.details.productInfo}
 			</p>
+
 			<button class="detail-button">ASK QUESTION</button>
 			<button class="detail-button">PART EXCHANGE</button>
 			<button class="detail-button">PAY BY FINANCE</button>
@@ -149,6 +149,7 @@ fetch("./category.json")
 						</div>
 					</div>
 				</div>
+
 				<div class="gray-box">
 					<label for="quantity">Qty</label>
 					<input
@@ -166,34 +167,29 @@ fetch("./category.json")
 					<hr />
 				</div>
 			</form>
+
 			<h2 class="table-heading">ADITIONAL INFORMATION</h2>
 			<div class="table">
 				<table>
 					<th class="half-gray">MANUFACTUR</th>
 					<td>${item.brand}</td>
-
-					<tr>
-						<th class="half-gray">MANUFACTUR LINK</th>
-
-						<td class="marantz">${item.brand} ${item.title.replace("_", " ")}</td>
+        	<tr>
+	      	<th class="half-gray">MANUFACTUR LINK</th>
+          <td class="marantz">${item.brand} ${item.title.replace("_", " ")}</td>
 					</tr>
 					<th class="half-gray">FREE WARRANTY</th>
 					<td>${item.details.additionalInfo.freeWarranty}</td>
-
-					<tr>
-						<th class="half-gray">DELIVERY CHARGE</th>
-
-						<td>${item.details.additionalInfo.deliveryCharge}</td>
+        	<tr>
+					<th class="half-gray">DELIVERY CHARGE</th>
+        	<td>${item.details.additionalInfo.deliveryCharge}</td>
 					</tr>
 					<th class="half-gray">DELIVERY TIME</th>
 					<td>${item.details.additionalInfo.deliveryTime}</td>
-
-					<tr>
-						<th class="half-gray">CARD SURCHARGES</th>
-
-						<td>${item.details.additionalInfo.cardSurcharges}</td>
+        	<tr>
+					<th class="half-gray">CARD SURCHARGES</th>
+          <td>${item.details.additionalInfo.cardSurcharges}</td>
 					</tr>
-				</table>
+			  	</table>
 			</div>`;
 			}
 		});
