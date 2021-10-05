@@ -123,6 +123,7 @@ a {
 }
 
 .brands-baner {
+	width: 50%;
 	background: linear-gradient(
 		90deg,
 		rgba(6, 6, 6, 1) 0%,
@@ -131,7 +132,7 @@ a {
 }
 
 .brands-baner img {
-	width: 600px;
+	width: 100%;
 	margin: 10px;
 }
 

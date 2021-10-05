@@ -120,11 +120,19 @@ form.search::after {
 	gap: 2%;
 	align-items: flex-start;
 }
+
 .card-desc {
 	width: 25%;
 	background-color: #fff;
 }
-
+@media (max-width: 900px) {
+	.card-container {
+		flex-direction: column;
+	}
+	.card-desc {
+		width: 100%;
+	}
+}
 .card-desc li {
 	margin-right: 20px;
 	line-height: 1.5;
@@ -174,6 +182,11 @@ form.search::after {
 	padding: 10px;
 	align-content: center;
 	gap: 20px;
+}
+@media (max-width: 720px) {
+	.cards {
+		grid-template-columns: repeat(3, 1fr);
+	}
 }
 
 .sorting {
