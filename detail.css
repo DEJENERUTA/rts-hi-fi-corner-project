@@ -96,6 +96,7 @@ form.search::after {
 	gap: 20px;
 	color: #fff;
 	padding: 15px;
+	list-style: none;
 }
 
 .Header__nav__ul__li {
