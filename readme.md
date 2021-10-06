@@ -25,6 +25,7 @@ function skift() {
 ## Brand page
 
 This page shows the rest of the products that are found in the stock
+and give a deep explanation about the company products.
 
 ## Shop list page
 
