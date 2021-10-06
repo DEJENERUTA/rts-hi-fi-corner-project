@@ -59,7 +59,7 @@ fetch("./detail.json")
 	```
 	```js
 	if () {
-		// ...
+		// ... this condition show product full information
 		}
 ```
 ````
