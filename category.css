@@ -25,6 +25,19 @@ img {
 	height: auto;
 	display: block;
 }
+h3 {
+	font-size: 12px;
+	text-align: center;
+}
+
+h5 {
+	margin-top: 10px;
+}
+
+h6 {
+	margin: 10px;
+	font-size: 14px;
+}
 
 .Header {
 	background-color: #000000;
@@ -125,6 +138,7 @@ form.search::after {
 	width: 25%;
 	background-color: #fff;
 }
+/* card product are responsive */
 @media (max-width: 900px) {
 	.card-container {
 		flex-direction: column;
@@ -133,6 +147,7 @@ form.search::after {
 		width: 100%;
 	}
 }
+
 .card-desc li {
 	margin-right: 20px;
 	line-height: 1.5;
@@ -183,6 +198,7 @@ form.search::after {
 	align-content: center;
 	gap: 20px;
 }
+/* this media query will make detail page responsive */
 @media (max-width: 720px) {
 	.cards {
 		grid-template-columns: repeat(3, 1fr);
@@ -276,20 +292,6 @@ form.search::after {
 
 .right-info p {
 	color: rgb(163, 145, 97);
-}
-
-h3 {
-	font-size: 12px;
-	text-align: center;
-}
-
-h5 {
-	margin-top: 10px;
-}
-
-h6 {
-	margin: 10px;
-	font-size: 14px;
 }
 
 .cart-button {

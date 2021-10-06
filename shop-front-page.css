@@ -76,12 +76,14 @@ a {
 	grid-template-rows: repeat(3, 1fr);
 	background-color: rgb(163, 145, 97);
 }
+/* shop page responsive */
 @media (max-width: 700px) {
 	.grid-container {
 		grid-template-columns: repeat(3, 1fr);
 		grid-template-rows: repeat(4, 1fr);
 	}
 }
+
 .brands {
 	position: relative;
 	text-align: center;
