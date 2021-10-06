@@ -6,9 +6,9 @@ In this project I have five pages:
 
 - front page
 - brand page
-- brand list page
+- shop list page
 - category page
-- list detail page
+- detail page
 
 ## reuseable component
 
@@ -59,6 +59,4 @@ fetch("./detail.json")
 		// ...
 		}
 ```
-
-
 ````
