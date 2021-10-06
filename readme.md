@@ -26,11 +26,13 @@ function skift() {
 
 This page shows the rest of the products that are found in the stock
 
-## brand list page
+## shop list page
+
+shop page will contain all brands and when the user click on one of them, it will show all the brands in that category
 
 ## category page
 
-I am fetching the data from `category.json`
+I am fetching the data from `category.json` and category page will contain all brands according to their category
 
 ```js
 fetch("./category.json")
@@ -40,4 +42,23 @@ fetch("./category.json")
 	});
 ```
 
-## list detail page
+## detail page
+
+Here I am fetching data from `detail.json` and
+In detail page the user can see all products with full information like price, brand and soon:
+
+````js
+fetch("./detail.json")
+	.then((response) => response.json())
+	.then((result) => {
+		// ...
+	});
+	```
+	```js
+	if () {
+		// ...
+		}
+```
+
+
+````
