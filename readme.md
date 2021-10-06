@@ -12,7 +12,7 @@ In this project I have five pages:
 
 ## reuseable component
 
-## front page
+## Front page
 
 front page contains logo and background image, there is also image gallery, from the galley image it is possible to change product images back and forth.
 
@@ -22,16 +22,16 @@ function skift() {
 }
 ```
 
-## brand page
+## Brand page
 
 This page shows the rest of the products that are found in the stock
 
-## shop list page
+## Shop list page
 
 shop page will contain all brands and when the user click on one of them, it will show all the brands in that category
 through shop page the user can go to category page and detail page
 
-## category page
+## Category page
 
 I am fetching the data from `category.json` and category page will contain all brands according to their category.
 when the user click on one of the product in category page then they will got detail page, so that means it is also possible to go to detail page from category page.
@@ -44,7 +44,7 @@ fetch("./category.json")
 	});
 ```
 
-## detail page
+## Detail page
 
 Here I am fetching data from `detail.json` and
 In detail page the user can see all products with full information like price, brand and soon:
